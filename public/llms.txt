@@ -1,0 +1,53 @@
+# Indig-Tours — Generative Engine Optimization Map
+
+> A travel and tourism business.
+
+---
+
+## Pages
+
+### Home
+https://indig-tours-fc924dd3.zappy5.app
+
+### Destinations
+https://indig-tours-fc924dd3.zappy5.app/destinations
+
+### Process
+https://indig-tours-fc924dd3.zappy5.app/process
+
+### Contact
+https://indig-tours-fc924dd3.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://indig-tours-fc924dd3.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://indig-tours-fc924dd3.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://indig-tours-fc924dd3.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Indig-Tours
+Indig-Tours is a business in the travel and tourism industry.
+
+## Target Audience
+private and corporate clients
+
+## Industry
+travel and tourism
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://indig-tours-fc924dd3.zappy5.app/sitemap.xml
+- **Robots.txt**: https://indig-tours-fc924dd3.zappy5.app/robots.txt
