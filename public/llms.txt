@@ -1,53 +1,43 @@
-# Indig-Tours — Generative Engine Optimization Map
-
-> A travel and tourism business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://indig-tours-fc924dd3.zappy5.app
+https://example.com
 
 ### Destinations
-https://indig-tours-fc924dd3.zappy5.app/destinations
+https://example.com/destinations
 
 ### Process
-https://indig-tours-fc924dd3.zappy5.app/process
+https://example.com/process
 
 ### Contact
-https://indig-tours-fc924dd3.zappy5.app/contact
+https://example.com/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://indig-tours-fc924dd3.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://indig-tours-fc924dd3.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://indig-tours-fc924dd3.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Indig-Tours
-Indig-Tours is a business in the travel and tourism industry.
-
-## Target Audience
-private and corporate clients
-
-## Industry
-travel and tourism
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://indig-tours-fc924dd3.zappy5.app/sitemap.xml
-- **Robots.txt**: https://indig-tours-fc924dd3.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
