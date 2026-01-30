@@ -1,6 +1,4 @@
-# Indig-Tours — Generative Engine Optimization Map
-
-> A travel and tourism business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -36,15 +34,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Indig-Tours
-Indig-Tours is a business in the travel and tourism industry.
-
-## Target Audience
-private and corporate clients
-
-## Industry
-travel and tourism
-
+## About Business
 ---
 
 # Additional Resources
